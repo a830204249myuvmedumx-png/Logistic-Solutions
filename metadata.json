@@ -1,0 +1,6 @@
+{
+  "name": "Precision Navigator - Global Logistics Command",
+  "description": "Enterprise logistics intelligence platform featuring real-time route tracking, global operations command, fleet telemetry, inventory management, and operations analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
